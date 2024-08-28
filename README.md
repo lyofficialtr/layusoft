@@ -2,14 +2,14 @@
 
 Official Site:
 ```
-https://www.layusoft.online
+https://www.layusoft.com
 ```
 
 Email:
 ```
-admin@layusoft.online
-info@layusoft.online
-contact@layusoft.online
+admin@layusoft.com
+info@layusoft.com
+contact@layusoft.oncomline
 ```
 
 Discord
