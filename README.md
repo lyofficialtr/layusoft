@@ -1,4 +1,4 @@
-# Contact Information for LayuSoft
+# Contact Information for LaYusoft
 
 Official Site:
 ```
@@ -9,7 +9,7 @@ Email:
 ```
 admin@layusoft.com
 info@layusoft.com
-contact@layusoft.oncomline
+contact@layusoft.com
 ```
 
 Discord
